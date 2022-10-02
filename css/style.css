@@ -1326,6 +1326,10 @@ body.mobile-nav-active #mobile-nav-toggle {
   content: "\f055" !important;
 }
 
+#faq #faq-list .collapse a {
+    padding: 0 !important;
+}
+
 /*--------------------------------------------------------------
 # Subscribe Section
 --------------------------------------------------------------*/
